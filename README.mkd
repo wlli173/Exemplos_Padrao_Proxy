@@ -10,4 +10,4 @@ Implementação de um Proxy de Registros em uma simulação de acesso a um banco
 
 * Exemplo 3
 
-Implmentação de um proxy mais completo, demonstrando a possibilidade de se adicionar métodos para processamentos adcionais antes ou após chamadas ao objeto real. Neste exemplo, simula-se um sistema de arquivos, o Proxy irá permitir fazer processamentos adicionais antes das chamadas das funções do objeto do sistema, como será demonstrado no exemplo, adicionando a lógica da verificação de permisões do usuário e opções de auditoria como exemplos de pós processamentos.
+Implementação de um proxy mais completo, demonstrando a possibilidade de se adicionar métodos para processamentos adcionais antes ou após chamadas ao objeto real. Neste exemplo, simula-se um sistema de arquivos, o Proxy irá permitir fazer processamentos adicionais antes das chamadas das funções do objeto do sistema, como será demonstrado no exemplo, adicionando a lógica da verificação de permisões do usuário e opções de auditoria como exemplos de pós processamentos.
