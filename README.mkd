@@ -1,0 +1,13 @@
+# Exemplos do Padrão de Projeto Proxy
+
+* Exemplo 1
+
+Implementação de um Proxy de cache em uma simulação de uma biblioteca tercerizada para baixar videos do youtube. O exemplo compara a utilização nativa da biblioteca com uma implmentação onde se utiliza um proxy que guarda informações em cache para salvar recursos, evitando chamadas desnecessárias ao serviço real.
+
+* Exemplo 2
+
+Implementação de um Proxy de Registros em uma simulação de acesso a um banco de dados. O padrão Proxy neste exemplo permite a adição do sistema de registros sem modificar o pacote de acesso ao banco de dados, imaginando que não queira-se modifica-la ou que pertence a terceiros, assim impossibilitando isso.
+
+* Exemplo 3
+
+Implmentação de um proxy mais completo, demonstrando a possibilidade de se adicionar métodos para processamentos adcionais antes ou após chamadas ao objeto real. Neste exemplo, simula-se um sistema de arquivos, o Proxy irá permitir fazer processamentos adicionais antes das chamadas das funções do objeto do sistema, como será demonstrado no exemplo, adicionando a lógica da verificação de permisões do usuário e opções de auditoria como exemplos de pós processamentos.
