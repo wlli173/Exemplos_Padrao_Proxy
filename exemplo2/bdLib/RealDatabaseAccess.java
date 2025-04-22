@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo2.bdLib;
+package exemplo2.bdLib;
 
 // Classe que implementa a interface DatabaseAccess
 // Esta classe simula o acesso a um banco de dados real

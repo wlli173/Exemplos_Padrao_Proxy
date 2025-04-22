@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo2.proxy;
+package exemplo2.proxy;
 
 import java.util.Date;
 

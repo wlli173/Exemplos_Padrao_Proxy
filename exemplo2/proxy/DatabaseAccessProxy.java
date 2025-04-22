@@ -1,10 +1,10 @@
-package padroesprojeto.proxy.exemplo2.proxy;
+package exemplo2.proxy;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import padroesprojeto.proxy.exemplo2.bdLib.DatabaseAccess;
-import padroesprojeto.proxy.exemplo2.bdLib.RealDatabaseAccess;
+import exemplo2.bdLib.DatabaseAccess;
+import exemplo2.bdLib.RealDatabaseAccess;
 
 // Proxy que implementa a interface DatabaseAccess
 // A classe RealDatabaseAccess é a implementação real do serviço de banco de dados

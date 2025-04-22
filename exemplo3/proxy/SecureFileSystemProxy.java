@@ -1,11 +1,11 @@
-package padroesprojeto.proxy.exemplo3.proxy;
+package exemplo3.proxy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import padroesprojeto.proxy.exemplo3.fileSystem.FileSystem;
-import padroesprojeto.proxy.exemplo3.fileSystem.RealFileSystem;
+import exemplo3.fileSystem.FileSystem;
+import exemplo3.fileSystem.RealFileSystem;
 
 //Implementa o padrão Proxy para controle de acesso e cache em um sistema de arquivos
 // O proxy implementa a interface FileSystem e controla o acesso ao RealFileSystem

@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo3.fileSystem;
+package exemplo3.fileSystem;
 
 import java.util.List;
 

@@ -1,8 +1,9 @@
-package padroesprojeto.proxy.exemplo3;
+package exemplo3;
 
-import padroesprojeto.proxy.exemplo3.fileSystem.FileSystem;
-import padroesprojeto.proxy.exemplo3.proxy.SecureFileSystemProxy;
-import padroesprojeto.proxy.exemplo3.proxy.User;
+
+import exemplo3.fileSystem.FileSystem;
+import exemplo3.proxy.SecureFileSystemProxy;
+import exemplo3.proxy.User;
 
 public class ProxyExample {
     

@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo1.youtubeLib;
+package exemplo1.youtubeLib;
 
 import java.util.HashMap;
 

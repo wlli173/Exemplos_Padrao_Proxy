@@ -1,8 +1,8 @@
-package padroesprojeto.proxy.exemplo2;
+package exemplo2;
 
 import java.util.List;
-import padroesprojeto.proxy.exemplo2.proxy.DatabaseAccessProxy;
-import padroesprojeto.proxy.exemplo2.proxy.LogEntry;
+import exemplo2.proxy.DatabaseAccessProxy;
+import exemplo2.proxy.LogEntry;
 
 public class ProxyPatternExample {
 

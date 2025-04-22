@@ -1,8 +1,8 @@
-package padroesprojeto.proxy.exemplo1;
+package exemplo1;
 
-import padroesprojeto.proxy.exemplo1.downloader.YouTubeDownloader;
-import padroesprojeto.proxy.exemplo1.proxy.YouTubeCacheProxy;
-import padroesprojeto.proxy.exemplo1.youtubeLib.ThirdPartyYouTubeClass;
+import exemplo1.downloader.YouTubeDownloader;
+import exemplo1.proxy.YouTubeCacheProxy;
+import exemplo1.youtubeLib.ThirdPartyYouTubeClass;
 
 public class Demo {
     

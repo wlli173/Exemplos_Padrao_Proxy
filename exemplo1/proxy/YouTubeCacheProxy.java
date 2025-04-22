@@ -1,10 +1,10 @@
-package padroesprojeto.proxy.exemplo1.proxy;
+package exemplo1.proxy;
 
 import java.util.HashMap;
 
-import padroesprojeto.proxy.exemplo1.youtubeLib.ThirdPartyYouTubeClass;
-import padroesprojeto.proxy.exemplo1.youtubeLib.ThirdPartyYouTubeLib;
-import padroesprojeto.proxy.exemplo1.youtubeLib.Video;
+import exemplo1.youtubeLib.ThirdPartyYouTubeClass;
+import exemplo1.youtubeLib.ThirdPartyYouTubeLib;
+import exemplo1.youtubeLib.Video;
 
 //Proxy irá implementar a interface ThirdPartyYouTubeLib para agir como um proxy da classe ThirdPartyYouTubeClass
 //A classe ThirdPartyYouTubeClass é a implementação real do serviço de vídeo do YouTube

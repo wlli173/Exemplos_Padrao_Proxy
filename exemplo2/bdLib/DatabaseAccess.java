@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo2.bdLib;
+package exemplo2.bdLib;
 
 public interface DatabaseAccess {
     void query(String sql);

@@ -1,4 +1,4 @@
-package padroesprojeto.proxy.exemplo3.proxy;
+package exemplo3.proxy;
 
 public class User {
 

@@ -1,8 +1,8 @@
-package padroesprojeto.proxy.exemplo1.downloader;
+package exemplo1.downloader;
 
 import java.util.HashMap;
-import padroesprojeto.proxy.exemplo1.youtubeLib.ThirdPartyYouTubeLib;
-import padroesprojeto.proxy.exemplo1.youtubeLib.Video;
+import exemplo1.youtubeLib.ThirdPartyYouTubeLib;
+import exemplo1.youtubeLib.Video;
 
 public class YouTubeDownloader {
     
